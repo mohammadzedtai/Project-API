@@ -4,23 +4,21 @@
   "recipes": [
     {
       "id": "1",
-      "name": "Paneer Butter Masala",
+      "name": "Chicken biryani",
       "category": "Indian",
       "time": "30 mins",
       "difficulty": "Medium",
-      "rating": 4.6,
+      "rating": 4.8,
       "ingredients": [
         "Paneer",
         "Butter",
-        "Tomato",
-        "Cream",
-        "Spices"
+        "Tomato"
       ],
-      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+      "image": "https://b.zmtcdn.com/data/pictures/5/22145985/f2681cc6d734d1795cd208105c3b48d8_o2_featured_v2.jpg"
     },
     {
       "id": "2",
-      "name": "Paneer Tikka Masala",
+      "name": "Chicken bombay biryani",
       "category": "Indian",
       "time": "30 mins",
       "difficulty": "Medium",
@@ -28,133 +26,224 @@
       "ingredients": [
         "Paneer",
         "Butter",
-        "Tomato",
-        "Cream",
-        "Onions"
+        "Tomato"
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mfFJ80960tI7DHar3v7_84jB_h52zKVjb_zHomW5mA&s"
+      "image": "https://b.zmtcdn.com/data/pictures/1/19286611/01c361be49104bfce556f3360879c13a_o2_featured_v2.jpg"
     },
-    {
+     {
       "id": "3",
-      "name": "Paneer Lababdar",
+      "name": "Chicken paneer biryani",
       "category": "Indian",
       "time": "30 mins",
       "difficulty": "Medium",
-      "rating": 4.6,
+      "rating": 4.4,
       "ingredients": [
         "Paneer",
         "Butter",
-        "Tomato",
-        "Cream",
-        "Spices"
+        "Tomato"
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6laWxultN0z9jvFVdPo8rrJ1kCB1onJITg&s"
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2013/06/Memoni-biryani.jpg"
     },
-    {
+     {
       "id": "4",
-      "name": "Veg Biryani",
+      "name": "Chicken malbari biryani",
       "category": "Indian",
-      "time": "40 mins",
+      "time": "35 mins",
       "difficulty": "Medium",
-      "rating": 4.5,
-      "ingredients": [
-        "Rice",
-        "Vegetables",
-        "Biryani Masala"
-      ],
-      "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2016/05/Lakhnawi-Veg-Biryani-01.jpg"
-    },
-    {
-      "id": "6",
-      "name": "Veg Burger",
-      "category": "Fast Food",
-      "time": "20 mins",
-      "difficulty": "Easy",
-      "rating": 4.2,
-      "ingredients": [
-        "Bun",
-        "Potato Patty",
-        "Lettuce"
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7upKlVxkEoqRy0sLDWDi9opymeKy1siHjw&s"
-    },
-    {
-      "id": "7",
-      "name": "White Sauce Pasta",
-      "category": "Italian",
-      "time": "25 mins",
-      "difficulty": "Easy",
       "rating": 4.3,
       "ingredients": [
-        "Pasta",
-        "Milk",
+        "Paneer",
         "Butter",
-        "Cheese"
+        "Tomato"
       ],
-      "image": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/white-sauce-pasta-featured.jpg"
+      "image": "https://www.mistay.in/travel-blog/content/images/2020/07/bombay-biriyani.jpeg"
     },
-    {
-      "id": "8",
-      "name": "Chicken Curry",
+     {
+      "id": "5",
+      "name": "Chicken butter biryani",
       "category": "Indian",
-      "time": "45 mins",
-      "difficulty": "Hard",
-      "rating": 4.7,
-      "ingredients": [
-        "Chicken",
-        "Onion",
-        "Tomato",
-        "Spices"
-      ],
-      "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2015/10/Koli-Chicken-Curry-02.jpg"
-    },
-    {
-      "id": "9",
-      "name": "French Fries",
-      "category": "Fast Food",
-      "time": "15 mins",
-      "difficulty": "Easy",
-      "rating": 4.1,
-      "ingredients": [
-        "Potato",
-        "Oil",
-        "Salt"
-      ],
-      "image": "https://www.savoryexperiments.com/wp-content/uploads/2024/02/Cajun-Fries-19.jpg"
-    },
-    {
-      "id": "10",
-      "name": "Veg Momos",
-      "category": "Chinese",
-      "time": "30 mins",
+      "time": "35 mins",
       "difficulty": "Medium",
-      "rating": 4.5,
+      "rating": 4.3,
       "ingredients": [
-        "Flour",
-        "Cabbage",
-        "Carrot"
+        "Paneer",
+        "Butter",
+        "Tomato"
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0DCckG7pMaeA0RSTEakquv0xPJDEKFTCtw&s"
+      "image": "https://www.arabamerica.com/wp-content/uploads/2014/12/hqdefault.jpg"
+    },
+
+    
+       {
+      "id": "6",
+      "name": "Burger",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://media.istockphoto.com/id/478486992/photo/sandwich-with-chicken-burger-tomatoes-cheese-and-lettuce.jpg?s=612x612&w=0&k=20&c=-1UjaEZ14xOWgcyKi8RHllrb4_-gusNN_mFRHbWMmH8="
+    },
+       {
+      "id": "7",
+      "name": "Chicken  paneer burger",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslivO-8_JhMBXLwMvU2SUzdpk0uKn9G7IZQ&s"
+    },
+   {
+      "id": "8",
+      "name": "Chicken chizz burger",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFfH9MS2ckXR0u5fkVB7B3DG4U-evUY2rmw&s"
+    },
+   {
+      "id": "9",
+      "name": "Chicken butter burger",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://recipesblob.oetker.in/assets/ec2737e9c2cf4c66aec54e619c927924/750x910/chicken-burger.jpg"
+    },
+   {
+      "id": "10",
+      "name": "Chicken burger",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO-nYDuI2LsPR1TDmqqMVmak01x_gW4EiG-w&s"
+    },
+
+
+    {
+      "id": "11",
+      "name": "Pizza",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://ikneadtoeat.com/wp-content/uploads/2020/02/Tandoori-Chicken-Pizza-1-500x375.jpg"
+    },
+
+    {
+      "id": "12",
+      "name": "Chicken Pizza",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlWujgT07A94gMu3jIFCNBrIsp5e1au7PdVw&s"
+    },
+
+    {
+      "id": "13",
+      "name": "Gujrati thali",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://b.zmtcdn.com/data/pictures/4/20963994/ae4ebbd6db8292e222586e8abe5f6569_o2_featured_v2.jpg"
+    },
+
+    {
+      "id": "14",
+      "name": "Cake",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://b.zmtcdn.com/data/dish_photos/0c9/53dec7676c1b8d2501b28c20301a30c9.jpeg"
+    },
+     {
+      "id": "15",
+      "name": "Panjabi Thali",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.3,
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato"
+      ],
+      "image": "https://b.zmtcdn.com/data/dish_photos/75c/2f1904530f73da984bc3bfbe54a8075c.png"
     }
+
+
+
   ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   "savedRecipes": [
     {
-      "id": "10",
-      "name": "Veg Momos",
-      "category": "Chinese",
-      "time": "30 mins",
-      "difficulty": "Medium",
-      "rating": 4.5,
-      "ingredients": [
-        "Flour",
-        "Cabbage",
-        "Carrot"
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0DCckG7pMaeA0RSTEakquv0xPJDEKFTCtw&s"
-    },
-    {
-      "id": "3",
-      "name": "Paneer Lababdar",
+      "id": "2",
+      "name": "Chicken bombay biryani",
       "category": "Indian",
       "time": "30 mins",
       "difficulty": "Medium",
@@ -162,100 +251,9 @@
       "ingredients": [
         "Paneer",
         "Butter",
-        "Tomato",
-        "Cream",
-        "Spices"
+        "Tomato"
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6laWxultN0z9jvFVdPo8rrJ1kCB1onJITg&s"
-    },
-    {
-      "id": "6",
-      "name": "Veg Burger",
-      "category": "Fast Food",
-      "time": "20 mins",
-      "difficulty": "Easy",
-      "rating": 4.2,
-      "ingredients": [
-        "Bun",
-        "Potato Patty",
-        "Lettuce"
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7upKlVxkEoqRy0sLDWDi9opymeKy1siHjw&s"
-    },
-    {
-      "id": "4",
-      "name": "Veg Biryani",
-      "category": "Indian",
-      "time": "40 mins",
-      "difficulty": "Medium",
-      "rating": 4.5,
-      "ingredients": [
-        "Rice",
-        "Vegetables",
-        "Biryani Masala"
-      ],
-      "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2016/05/Lakhnawi-Veg-Biryani-01.jpg"
-    },
-    {
-      "id": "8",
-      "name": "Chicken Curry",
-      "category": "Indian",
-      "time": "45 mins",
-      "difficulty": "Hard",
-      "rating": 4.7,
-      "ingredients": [
-        "Chicken",
-        "Onion",
-        "Tomato",
-        "Spices"
-      ],
-      "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2015/10/Koli-Chicken-Curry-02.jpg"
-    },
-    {
-      "id": "1",
-      "name": "Paneer Butter Masala",
-      "category": "Indian",
-      "time": "30 mins",
-      "difficulty": "Medium",
-      "rating": 4.6,
-      "ingredients": [
-        "Paneer",
-        "Butter",
-        "Tomato",
-        "Cream",
-        "Spices"
-      ],
-      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
-    },
-    {
-      "id": "4",
-      "name": "Veg Biryani",
-      "category": "Indian",
-      "time": "40 mins",
-      "difficulty": "Medium",
-      "rating": 4.5,
-      "ingredients": [
-        "Rice",
-        "Vegetables",
-        "Biryani Masala"
-      ],
-      "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2016/05/Lakhnawi-Veg-Biryani-01.jpg"
-    },
-    {
-      "id": "1",
-      "name": "Paneer Butter Masala",
-      "category": "Indian",
-      "time": "30 mins",
-      "difficulty": "Medium",
-      "rating": 4.6,
-      "ingredients": [
-        "Paneer",
-        "Butter",
-        "Tomato",
-        "Cream",
-        "Spices"
-      ],
-      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+      "image": "https://b.zmtcdn.com/data/pictures/1/19286611/01c361be49104bfce556f3360879c13a_o2_featured_v2.jpg"
     }
   ]
 }
